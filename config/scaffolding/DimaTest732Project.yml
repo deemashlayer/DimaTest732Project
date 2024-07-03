@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: DimaTest732Project
+  gitServerName: dima
+  gitUrl: https://github.com/deemashlayer/DimaTest732Project
+  gitUsername: deemashlayer
+  gitBranch: main
